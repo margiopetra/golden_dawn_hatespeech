@@ -27,7 +27,7 @@ Q_Q_results.ipynb
 ## Authors
 
 * **Maria Petra Chatzipetrou** - (https://github.com/margiopetra)
-* **Athanasia Polychronou** - (https://github.com/nancypoly)
+* **Athanasia Polychronou** - (https://github.com/NancyPolyc)
 
 
 
